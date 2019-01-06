@@ -1,0 +1,1 @@
+# q2a-social-share-plugin
